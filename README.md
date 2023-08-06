@@ -23,7 +23,7 @@ Azure SDK는 개발자가 다양한 Azure 서비스를 원하는 프로그래밍
 
 본 저장소는 Microsoft 오픈 소스에 기여하기 위한 가이드라인을 따르고 있습니다.
 
-Note that below is Korean translation of contributing part on [Azure SDK's README.md](https://github.com/Azure/azure-sdk/blob/main/README.md#contributing).   
+Note that below is Korean translation of contributing part on [Azure SDK's README.md](https://github.com/Azure/azure-sdk/blob/main/README.md#contributing).    
 아래는 [Azure SDK 저장소에 언급된 기여하기 파트](https://github.com/Azure/azure-sdk/blob/main/README.md#contributing)를 한글로 번역한 것입니다. 참고하셨으면 합니다.
 
 이 프로젝트는 기여 및 제안을 환영합니다. 대부분의 기여는 기부자가 기여를 사용할 권리를 가지고 있으며 실제로 그러한 권리를 당사에 부여한다고 선언하는 기부자 라이센스 계약(CLA)에 동의하기를 요구합니다. 자세한 내용은 https://cla.microsoft.com 을 방문하시면 됩니다.
